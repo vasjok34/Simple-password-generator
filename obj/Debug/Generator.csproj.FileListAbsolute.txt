@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Generator\obj\Debug\Generator.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Generator\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\Generator\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\Generator\obj\Debug\Generator_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\Generator\obj\Debug\Generator_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\Generator\bin\Debug\Generator.exe.config
+C:\Users\Lenovo\source\repos\Generator\bin\Debug\Generator.exe
+C:\Users\Lenovo\source\repos\Generator\bin\Debug\Generator.pdb
+C:\Users\Lenovo\source\repos\Generator\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\Generator\obj\Debug\Generator.g.resources
+C:\Users\Lenovo\source\repos\Generator\obj\Debug\Generator.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Generator\obj\Debug\Generator.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Generator\obj\Debug\Generator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Generator\obj\Debug\Generator.exe
+C:\Users\Lenovo\source\repos\Generator\obj\Debug\Generator.pdb
